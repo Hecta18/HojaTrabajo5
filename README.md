@@ -120,6 +120,8 @@ env.run(until=TIEMPO_SIMULACION)
 | Ejemplo | Atención en un banco | Tanque de gasolina |
 
 ---
+### 📌 **Definiciones:** 
+**intervalos(definición):** Tiempo promedio entre llegadas de procesos (a menor el valor, mayor la cantidad de procesos).
 
-Referencias:
+### **Referencias:**
 ChatGPT. (2025, 18 de febrero). Conclusiones sobre el proyecto de carrito impulsado por energía potencial gravitatoria. OpenAI. https://chat.openai.com/
