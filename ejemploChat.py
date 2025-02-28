@@ -12,6 +12,7 @@ INSTRUCTIONS_PER_CYCLE = 3  # Instrucciones ejecutadas por ciclo
 # Parámetros de prueba
 num_processes_list = [25, 50, 100]  # Diferentes cantidades de procesos a probar
 intervals = [10, 5, 1]  # Intervalos de llegada de procesos
+
 # Función que simula un proceso
 def process(env, name, ram, cpu, memory_needed, instructions):
     yield ram.get(memory_needed)  # Solicita memoria RAM
