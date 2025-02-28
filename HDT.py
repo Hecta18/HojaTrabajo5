@@ -1,6 +1,6 @@
 import simpy  # Librería para simulación de eventos discretos
 import random  # Generación de números aleatorios
-import matplotlib.pyplot as plt  # Gráficos
+import matplotlib.pyplot as plt  # Gráfico
 
 # Configuración de la simulación
 RANDOM_SEED = 42  # Semilla para reproducibilidad
